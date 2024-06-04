@@ -1,3 +1,5 @@
+// this is the final version for spring 2024 flignt V1.0.0
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
